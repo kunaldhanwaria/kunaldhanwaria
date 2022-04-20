@@ -8,10 +8,10 @@
 I'm a self taught programmer, Machine Learning enthusiast and a citizen scientist.
 
 - 🔭 I’m currently working on improving my programming skills;
-- 🌱 I’m currently learning SQL and Deep Learning.
+- 🌱 I’m currently learning Deep Learning, Power BI and R.
 
 ## 🛠 Skills
-Python, Machine Learning, Data Analysis, Data Visualization, Git, HTML, Bootstrap
+Python, Java, SQL, Machine Learning, Data Analysis, Data Visualization, Git, HTML, Bootstrap
 
 
 ## 🔗 Links
